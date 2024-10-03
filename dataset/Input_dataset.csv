@@ -1,0 +1,42 @@
+Client_ID,Event_ID,Start_Date,End_Date,Event_Type,Event_Subtype,Event_Desc
+1234,R1234,01/01/2023,01/01/2023,Request,Request,This is Request
+1234,A1234,01/01/2023,04/01/2023,Assessment,Needs Assessment,This is Needs Assessment
+1234,S1234,05/01/2023,,Service,Residential,This is Residential Service
+9876,R9876_1,09/07/2023,10/07/2023,Request,Request,This is Request
+9876,A9876_1,11/07/2023,14/07/2023,Assessment,Needs Assessment,This is Needs Assessment
+9876,S9876_1,15/07/2023,,Service,Nursing,This is Nursing Service
+9876,R9876_2,15/09/2023,15/09/2023,Request,Request,This is Request
+9876,A9876_2,15/09/2023,16/09/2023,Assessment,Carers Assessment,This is Carers Assessment
+9876,S9876_2,16/09/2023,30/09/2023,Service,Carer Respite,This is Carer Respite Service
+9876,R9876_3,15/02/2024,15/02/2024,Request,Request,This is Request
+9876,A9876_3,15/02/2024,16/02/2024,Assessment,Carers Assessment,This is Carers Assessment
+9876,S9876_3,16/02/2024,28/02/2024,Service,Carer Respite,This is Carer Respite Service
+9876,S9876_4,25/02/2024,27/03/2024,Service,OT,This is OT Service
+7895,B1,01/04/2023,,ASC Long Term,Direct Payment,Community
+7895,B2,01/04/2023,,ASC Long Term,Home Support,Community
+7895,B3,05/04/2024,05/04/2024,Mental Health,Community mental health team - functional,Community
+7895,B4,13/04/2024,13/04/2024,Community,Podiatry Service,Follow-up
+7895,B5,19/04/2024,19/04/2024,Mental Health,Community mental health team - functional,Community
+7895,B6,21/04/2024,21/04/2024,Mental Health,Community mental health team - functional,Community
+7895,B7,28/04/2024,28/04/2024,Mental Health,Community mental health team - functional,Community
+7895,B8,07/05/2024,07/05/2024,A&E,Emergency Medicine Service,Emergency Dept
+7895,B9,10/05/2024,10/05/2024,Mental Health,Community mental health team - functional,Community
+7895,B10,12/05/2024,12/05/2024,Mental Health,Community mental health team - functional,Community
+7895,B11,15/05/2024,15/05/2024,Acute Inpatient,Ophthalmology Service,Elective
+7895,B12,15/05/2024,15/05/2024,Mental Health,Community mental health team - functional,Community
+7895,B13,19/05/2024,19/05/2024,Mental Health,Community mental health team - functional,Community
+7895,B14,21/05/2024,21/05/2024,A&E,Emergency Medicine Service,Emergency Dept
+7895,B15,21/05/2024,22/05/2024,Mental Health,Psychiatric liaison service,Community
+7895,B16,24/05/2024,24/05/2024,Mental Health,Community mental health team - functional,Community
+7895,B17,24/05/2024,24/05/2024,Mental Health,Crisis resolution team/home treatment service,Community
+7895,B18,25/05/2024,25/05/2024,A&E,Emergency Medicine Service,Emergency Dept
+7895,B19,25/05/2024,25/05/2024,Community,DNA - Podiatry Service,First
+7895,B20,26/05/2024,26/05/2024,Mental Health,Community mental health team - functional,Community
+7895,B21,09/06/2024,09/06/2024,Mental Health,Community mental health team - functional,Community
+7895,B22,14/06/2024,15/06/2024,Mental Health,Community mental health team - functional,Community
+7895,B23,20/06/2024,20/06/2024,Acute Outpatient,Ophthalmology Service,Follow-up
+7895,B24,23/06/2024,23/06/2024,Community,DNA - Podiatry Service,First
+7895,B25,23/06/2024,23/06/2024,Mental Health,Community mental health team - functional,Community
+7895,B26,27/06/2024,27/06/2024,A&E,Emergency Medicine Service,Emergency Dept
+7895,B27,28/06/2024,29/06/2024,Mental Health,Community mental health team - functional,Community
+7895,B28,28/06/2024,28/06/2024,Mental Health,Psychiatric liaison service,Community
