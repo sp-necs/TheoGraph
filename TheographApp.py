@@ -103,6 +103,8 @@ else:
                 fig.update_yaxes(
                     showgrid = False
                 )
+
+                st.divider()
                 st.plotly_chart(fig)
 
                 export_csv = input_dataset[input_dataset["Client_ID"] == client_id].to_csv(index=False)
